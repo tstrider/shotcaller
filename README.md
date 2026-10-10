@@ -21,6 +21,8 @@ screenshot, and a few seconds later it has a name Spotlight can find.
 Free, open source, and everything happens on your Mac. Built for people with too many
 screenshots.
 
+**[See it name sample screenshots on the site](https://tstrider.github.io/shotcaller-for-mac/)** before you install anything.
+
 *by Strider*
 
 ---
